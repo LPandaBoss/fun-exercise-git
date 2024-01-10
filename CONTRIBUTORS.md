@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [NameA](NameA@github.com)
